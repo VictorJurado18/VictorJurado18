@@ -1,16 +1,14 @@
 
 ## Olá! Eu sou o Victor Nemeth Jurado 👋
 ### Sou estudante de análise e desenvolvimento de sistemas pela faculdade Impacta e apaixonado por técnologia. 💻
-</br>
-<hr/>
-<br/>
+
 
 [![pessoal](https://img.shields.io/website?label=victorjurado.com.br&style=for-the-badge&url=https://www.victorjurado.com.br)](https://www.victorjurado.com.br)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-nemeth-jurado-2a93a0206/)[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511983018778)
 <br/>
 <br/>
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJurado18&show_icons=true&theme=dracula)
-<hr/>
+
 <br/>
 
 ## Técnologias que já tive contato
