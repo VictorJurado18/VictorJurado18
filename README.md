@@ -25,8 +25,7 @@
 
 <hr/>
 </br>
-
-### Para se ter sucesso é necessário amar de verdade o que se faz
-</br>
-
-#### - Steve Jobs
+<blockquote>
+<q>Para se ter sucesso é necessário amar de verdade o que se faz.<q>
+</blockquote>
+<p>- Steve Jobs</p>
