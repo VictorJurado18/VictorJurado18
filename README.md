@@ -29,7 +29,15 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
 
-</div><br/>
+</div>
+
+<br/>
+
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  
+  <a href="https://www.credly.com/badges/8e13b168-0491-407b-8f7f-907a934e9b59"><img  alt="Microsoft-AZ-900" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" style="width: 30%; height: auto;object-fit: contain;"></a>
+</div>
 
 <hr/>
 </br>
