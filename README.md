@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Victor Jurado 👋
-### Sou engenheiro de dados e estudante de análise e desenvolvimento de sistemas pela faculdade Impacta. 💻
+### Engenheiro de dados e formado em análise e desenvolvimento de sistemas pela faculdade Impacta. 💻
 
 
 
