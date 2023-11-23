@@ -1,8 +1,8 @@
 
 <h3 align="center">Olá! Eu sou o Victor Jurado 👋</h3>
-<div aling="center">
+<p aling="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas-Naue&pause=1000&color=229A00&random=false&width=439&height=55&lines=Data+Engineer%2C+IoT%2C+Generative+AI;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+sistemas" alt="Typing SVG" /></a>
-</div>
+</p>
 
 
 
