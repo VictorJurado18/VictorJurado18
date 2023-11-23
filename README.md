@@ -1,5 +1,8 @@
-## Olá! Eu sou o Victor Jurado 👋
-### Engenheiro de dados e formado em análise e desenvolvimento de sistemas pela faculdade Impacta. 💻
+
+<h3 align="center">Olá! Eu sou o Victor Jurado 👋</h3>
+<div aling="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas-Naue&pause=1000&color=229A00&random=false&width=439&height=55&lines=Data+Engineer%2C+IoT%2C+Generative+AI;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+sistemas" alt="Typing SVG" /></a>
+</div>
 
 
 
@@ -36,7 +39,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
   
-  <a href="https://www.credly.com/badges/8e13b168-0491-407b-8f7f-907a934e9b59"><img  alt="Microsoft-AZ-900" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" style="width: 30%; height: auto;object-fit: contain;"></a>
+  <a align="center" href="https://www.credly.com/badges/8e13b168-0491-407b-8f7f-907a934e9b59"><img  alt="Microsoft-AZ-900" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" style="width: 30%; height: auto;object-fit: contain;"></a>
 </div>
 
 <hr/>
