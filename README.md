@@ -1,9 +1,7 @@
 
-<h3 align="center">Olá! Eu sou o Victor Jurado 👋</h3>
-<p aling="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas-Naue&pause=1000&color=229A00&random=false&width=439&height=55&lines=Data+Engineer%2C+IoT%2C+Generative+AI;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+sistemas" alt="Typing SVG" /></a>
-</p>
+# Olá! Eu sou o Victor Jurado 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FF710&random=false&width=435&lines=Data+Engineer%2C+IoT%2C+Generative+AI)](https://git.io/typing-svg)
 
 
 [![pessoal](https://img.shields.io/website?label=victorjurado.com.br&style=for-the-badge&url=https://www.victorjurado.com.br)](https://www.victorjurado.com.br)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-jurado-2a93a0206/)[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511983018778)
@@ -47,4 +45,5 @@
 <blockquote>
 <q>Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar.<q>
 </blockquote>
+</br>
 <p>- Alan Turing</p>
