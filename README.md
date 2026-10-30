@@ -26,11 +26,11 @@
     </td>
     <td width="33%" valign="top">
       <b>AI Engineering</b><br/><br/>
-      <sub>Agentes e assistentes com LLMs integrados a dados reais — e-mail, notificações e APIs.</sub>
+      <sub>Agentes e aplicações com LLMs conectados a dados e sistemas reais.</sub>
     </td>
     <td width="33%" valign="top">
       <b>IA local</b><br/><br/>
-      <sub>Modelos rodando na própria máquina: visão computacional, reconstrução 3D e voz.</sub>
+      <sub>Modelos open source rodando na própria máquina, com privacidade e custo zero de API.</sub>
     </td>
   </tr>
 </table>
@@ -46,45 +46,6 @@
 <sub>Databricks · Apache Spark · Azure Functions · Azure DevOps · SQL Server · Power BI · Pandas</sub>
 
 <br/><br/>
-
-### AI Lab
-
-<sub>Projetos pessoais onde testo IA aplicada de ponta a ponta — da ideia ao produto, desenvolvidos em fluxo AI-native com agentes de código.</sub>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/VictorJurado18/economia"><b>EconomIA</b></a>&nbsp;
-      <img src="https://img.shields.io/badge/em%20uso-238636?style=flat-square" alt="em uso"/><br/>
-      <sub>Assistente financeiro pessoal. Um app Android captura notificações bancárias, a leitura de e-mails completa o quadro e a IA consolida tudo em uma visão única dos gastos.</sub><br/><br/>
-      <sub><code>LLM</code> <code>Android</code> <code>Automação</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/VictorJurado18/Imob3D"><b>Imob3D</b></a>&nbsp;
-      <img src="https://img.shields.io/badge/piloto-1f6feb?style=flat-square" alt="piloto"/><br/>
-      <sub>Tour 3D navegável de imóveis gerado a partir de um único vídeo de celular, com pipeline rodando em GPU local e pós-processamento para corrigir capturas imperfeitas.</sub><br/><br/>
-      <sub><code>Visão computacional</code> <code>Reconstrução 3D</code> <code>GPU</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Voice Notes</b>&nbsp;
-      <img src="https://img.shields.io/badge/em%20desenvolvimento-9e6a03?style=flat-square" alt="em desenvolvimento"/><br/>
-      <sub>App desktop para Windows que grava e transcreve notas de voz, pensado para capturar ideias sem atrito.</sub><br/><br/>
-      <sub><code>Speech-to-text</code> <code>Desktop</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Jarvis</b>&nbsp;
-      <img src="https://img.shields.io/badge/em%20concep%C3%A7%C3%A3o-6e7681?style=flat-square" alt="em concepção"/><br/>
-      <sub>Assistente pessoal por voz, rodando localmente, que conecta os outros projetos: finanças, saúde via smartwatch, notificações e e-mail.</sub><br/><br/>
-      <sub><code>LLM local</code> <code>Voz</code> <code>Integrações</code></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ### Atividade
 
