@@ -47,6 +47,52 @@
 
 <br/><br/>
 
+### Projetos
+
+<sub>Utilitários open source para Windows, desenvolvidos em fluxo AI-native com agentes de código.</sub>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <a href="https://github.com/VictorJurado18/voice_notes"><img src="https://raw.githubusercontent.com/VictorJurado18/voice_notes/main/assets/voice-notes.png" width="64" alt="Voice Notes"/></a>
+      <br/><br/>
+      <a href="https://github.com/VictorJurado18/voice_notes"><b>Voice Notes</b></a>
+      <br/>
+      <sub>Grava, transcreve e resume reuniões, aulas e chamadas, com Whisper rodando localmente.</sub>
+      <br/><br/>
+      <sub><code>Python</code> <code>Whisper</code> <code>LLM</code></sub>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <a href="https://github.com/VictorJurado18/Guarana"><img src="https://raw.githubusercontent.com/VictorJurado18/Guarana/main/Assets/guarana-512.png" width="64" alt="Guaraná"/></a>
+      <br/><br/>
+      <a href="https://github.com/VictorJurado18/Guarana"><b>Guaraná</b></a>
+      <br/>
+      <sub>Mantém o Windows acordado e você disponível no Teams e no Slack — por timer ou nos horários da sua semana.</sub>
+      <br/><br/>
+      <sub><code>C#</code> <code>.NET</code> <code>Windows</code></sub>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <a href="https://github.com/VictorJurado18/tesler"><img src="https://raw.githubusercontent.com/VictorJurado18/tesler/main/dragshift/assets/tesler.png" width="64" alt="Tesler"/></a>
+      <br/><br/>
+      <a href="https://github.com/VictorJurado18/tesler"><b>Tesler</b></a>
+      <br/>
+      <sub>Arraste, aperte Shift e solte: converte, comprime e edita arquivos direto do Explorador, tudo local.</sub>
+      <br/><br/>
+      <sub><code>Python</code> <code>PySide6</code> <code>Windows</code></sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ### Atividade
 
 <picture>
