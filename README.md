@@ -13,7 +13,7 @@
 
 <p align="center">
   Data Engineer na <b>BlueShift Brasil</b> · São Paulo<br/>
-  <sub>Transformo dados brutos em plataformas confiáveis — e uso IA para levar isso ao dia a dia.</sub>
+  <sub>De dia, plataformas de dados na Azure. Nas horas vagas, produtos com IA que resolvem problemas reais.</sub>
 </p>
 
 <br/>
@@ -47,17 +47,39 @@
 
 <br/><br/>
 
-### Projetos em destaque
+### AI Lab
+
+<sub>Projetos pessoais onde testo IA aplicada de ponta a ponta — da ideia ao produto, desenvolvidos em fluxo AI-native com agentes de código.</sub>
+
+<br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/VictorJurado18/economia"><b>EconomIA</b></a><br/>
-      <sub>Assistente financeiro pessoal com IA. Captura notificações bancárias via app Android e lê e-mails para consolidar gastos automaticamente.</sub>
+      <a href="https://github.com/VictorJurado18/economia"><b>EconomIA</b></a>&nbsp;
+      <img src="https://img.shields.io/badge/em%20uso-238636?style=flat-square" alt="em uso"/><br/>
+      <sub>Assistente financeiro pessoal. Um app Android captura notificações bancárias, a leitura de e-mails completa o quadro e a IA consolida tudo em uma visão única dos gastos.</sub><br/><br/>
+      <sub><code>LLM</code> <code>Android</code> <code>Automação</code></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/VictorJurado18/Imob3D"><b>Imob3D</b></a><br/>
-      <sub>Gera um tour 3D navegável de imóveis a partir de um único vídeo gravado no celular.</sub>
+      <a href="https://github.com/VictorJurado18/Imob3D"><b>Imob3D</b></a>&nbsp;
+      <img src="https://img.shields.io/badge/piloto-1f6feb?style=flat-square" alt="piloto"/><br/>
+      <sub>Tour 3D navegável de imóveis gerado a partir de um único vídeo de celular, com pipeline rodando em GPU local e pós-processamento para corrigir capturas imperfeitas.</sub><br/><br/>
+      <sub><code>Visão computacional</code> <code>Reconstrução 3D</code> <code>GPU</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Voice Notes</b>&nbsp;
+      <img src="https://img.shields.io/badge/em%20desenvolvimento-9e6a03?style=flat-square" alt="em desenvolvimento"/><br/>
+      <sub>App desktop para Windows que grava e transcreve notas de voz, pensado para capturar ideias sem atrito.</sub><br/><br/>
+      <sub><code>Speech-to-text</code> <code>Desktop</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Jarvis</b>&nbsp;
+      <img src="https://img.shields.io/badge/em%20concep%C3%A7%C3%A3o-6e7681?style=flat-square" alt="em concepção"/><br/>
+      <sub>Assistente pessoal por voz, rodando localmente, que conecta os outros projetos: finanças, saúde via smartwatch, notificações e e-mail.</sub><br/><br/>
+      <sub><code>LLM local</code> <code>Voz</code> <code>Integrações</code></sub>
     </td>
   </tr>
 </table>
