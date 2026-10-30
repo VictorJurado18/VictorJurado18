@@ -1,49 +1,66 @@
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Victor%20Jurado&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20IoT%20%C2%B7%20Generative%20AI&descSize=16&descAlignY=56" alt="Victor Jurado" width="100%"/>
+</p>
 
-# Olá! Eu sou o Victor Jurado 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FF710&random=false&width=435&lines=Data+Engineer%2C+IoT%2C+Generative+AI)](https://git.io/typing-svg)
-
-
-[![pessoal](https://img.shields.io/website?label=victorjurado.com.br&style=for-the-badge&url=https://www.victorjurado.com.br)](https://www.victorjurado.com.br)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-jurado-2a93a0206/)[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511983018778)
-<br/>
-<br/>
-
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJurado18&show_icons=true&theme=dracula)
-
-<br/>
-
-## Técnologias que já tive contato
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img align="center" alt="azure-functions" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white">
-  <img align="center" alt="azure-devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-  <img align="center" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
-  <img align="center" alt="powerbi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="PySpark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
-  <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
-
-</div>
+<p align="center">
+  <a href="https://www.victorjurado.com.br"><img src="https://img.shields.io/badge/victorjurado.com.br-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a>
+  <a href="https://www.linkedin.com/in/victor-jurado-2a93a0206/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.credly.com/badges/8e13b168-0491-407b-8f7f-907a934e9b59"><img src="https://img.shields.io/badge/Azure%20Fundamentals%20(AZ--900)-0d1117?style=flat-square&logo=microsoft&logoColor=white" alt="AZ-900"/></a>
+</p>
 
 <br/>
 
+Engenheiro de dados na **BlueShift Brasil**, construindo pipelines e plataformas de dados na Azure com Databricks e Python.
+Fora do trabalho, exploro IA generativa aplicada a problemas do dia a dia — finanças pessoais, visão computacional e assistentes locais.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  
-  <a align="center" href="https://www.credly.com/badges/8e13b168-0491-407b-8f7f-907a934e9b59"><img  alt="Microsoft-AZ-900" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" style="width: 30%; height: auto;object-fit: contain;"></a>
-</div>
+```python
+victor = {
+    "role":      "Data Engineer @ BlueShift Brasil",
+    "focus":     ["Data Platforms", "IoT", "Generative AI"],
+    "stack":     ["Azure", "Databricks", "Spark", "Python"],
+    "education": "Análise e Desenvolvimento de Sistemas — Impacta",
+    "based_in":  "São Paulo, Brasil",
+}
+```
 
-<hr/>
-</br>
-<blockquote>
-<q>Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar.<q>
-</blockquote>
-</br>
-<p>- Alan Turing</p>
+<br/>
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,py,docker,mongodb,cs,git,github,linux,vscode,figma&theme=dark" alt="Stack"/>
+</p>
+
+<sub>Databricks · Apache Spark · Azure Functions · Azure DevOps · SQL Server · Power BI · Pandas</sub>
+
+<br/><br/>
+
+### Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VictorJurado18/economia"><b>EconomIA</b></a><br/>
+      <sub>Assistente financeiro pessoal com IA. Captura notificações bancárias via app Android e lê e-mails para consolidar gastos automaticamente.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VictorJurado18/Imob3D"><b>Imob3D</b></a><br/>
+      <sub>Gera um tour 3D navegável de imóveis a partir de um único vídeo gravado no celular.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorJurado18/VictorJurado18/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorJurado18/VictorJurado18/output/github-snake.svg"/>
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/VictorJurado18/VictorJurado18/output/github-snake.svg"/>
+</picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" width="100%"/>
+</p>
