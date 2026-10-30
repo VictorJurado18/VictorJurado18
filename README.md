@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Victor%20Jurado&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20IoT%20%C2%B7%20Generative%20AI&descSize=16&descAlignY=56" alt="Victor Jurado" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Victor%20Jurado&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineering%20%C2%B7%20Lakehouse%20%C2%B7%20AI%20Engineering&descSize=16&descAlignY=56" alt="Victor Jurado" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,18 +11,29 @@
 
 <br/>
 
-Engenheiro de dados na **BlueShift Brasil**, construindo pipelines e plataformas de dados na Azure com Databricks e Python.
-Fora do trabalho, exploro IA generativa aplicada a problemas do dia a dia — finanças pessoais, visão computacional e assistentes locais.
+<p align="center">
+  Data Engineer na <b>BlueShift Brasil</b> · São Paulo<br/>
+  <sub>Transformo dados brutos em plataformas confiáveis — e uso IA para levar isso ao dia a dia.</sub>
+</p>
 
-```python
-victor = {
-    "role":      "Data Engineer @ BlueShift Brasil",
-    "focus":     ["Data Platforms", "IoT", "Generative AI"],
-    "stack":     ["Azure", "Databricks", "Spark", "Python"],
-    "education": "Análise e Desenvolvimento de Sistemas — Impacta",
-    "based_in":  "São Paulo, Brasil",
-}
-```
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Engenharia de dados</b><br/><br/>
+      <sub>Pipelines e arquitetura Lakehouse na Azure com Databricks e Spark, do dado bruto ao consumo analítico.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>AI Engineering</b><br/><br/>
+      <sub>Agentes e assistentes com LLMs integrados a dados reais — e-mail, notificações e APIs.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>IA local</b><br/><br/>
+      <sub>Modelos rodando na própria máquina: visão computacional, reconstrução 3D e voz.</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
